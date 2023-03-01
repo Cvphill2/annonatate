@@ -1,0 +1,34 @@
+---
+canvas: "https://cvphill2.github.io/annonatate/img/derivatives/iiif/GraphicNovelPages12/canvas/GraphicNovelPages12-2"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "snail/crab?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Cvphill2",
+                "name": "Cvphill2"
+            },
+            "created": "2023-03-01T19:18:28.315Z",
+            "modified": "2023-03-01T19:18:33.506Z"
+        }
+    ],
+    "target": {
+        "source": "https://cvphill2.github.io/annonatate/img/derivatives/iiif/GraphicNovelPages12/canvas/GraphicNovelPages12-2",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"1525.7880554199219\" cy=\"2654.2913818359375\" r=\"707.9155856485197\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://cvphill2.github.io/annonatate/img/derivatives/iiif/GraphicNovelPages12/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "df8a1028-c971-4d48-a8d8-b059e7a3f318.json",
+    "motivation": "commenting"
+}
