@@ -1,0 +1,35 @@
+---
+canvas: "https://cvphill2.github.io/annonatate/img/derivatives/iiif/GraphicNovelPages12/canvas/GraphicNovelPages12-1"
+order: 6
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Hat #4",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Cvphill2",
+                "name": "Cvphill2"
+            },
+            "created": "2023-03-01T19:24:14.504Z",
+            "modified": "2023-03-01T19:24:16.700Z"
+        }
+    ],
+    "target": {
+        "source": "https://cvphill2.github.io/annonatate/img/derivatives/iiif/GraphicNovelPages12/canvas/GraphicNovelPages12-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1501.0372314453125,4185.67138671875,471.1817626953125,304.267578125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://cvphill2.github.io/annonatate/img/derivatives/iiif/GraphicNovelPages12/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c7659bf7-0b71-4fe4-8abf-fc1ed9bc0f46.json",
+    "motivation": "commenting"
+}
